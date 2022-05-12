@@ -11,6 +11,7 @@
 - Cloud Computing
 - Python
 - Java
+- UI/UX Designing
 - Figma
 - SQL
 
