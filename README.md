@@ -6,7 +6,7 @@
 👨‍💻 I enjoy learning and applying my coding skills in places and make small projects.<br />
 😄 Pronouns: Her/She
 
-## I'm currently learning :mountain:
+## I'm currently learning :chart_with_upwards_trend:
 
 - Cloud Computing
 - Python
